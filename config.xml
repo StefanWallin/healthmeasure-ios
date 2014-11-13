@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="se.xn--hlsomtt-5wan.ios" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Hälsomått</name>
+    <description>
+        A app that helps you track some of your health vitals.
+    </description>
+    <author email="support@xn--hlsomtt-5wan.se" href="https://xn--hlsomtt-5wan.se">
+        Hälsomått Support
+    </author>
+    <content src="index.htm" />
+    <access origin="https://xn--hlsomtt-5wan.se" />
+    <access origin="https://fonts.googleapis.com" />
+    <access origin="https://fonts.gstatic.com" />
+</widget>
+
+
